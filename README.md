@@ -1,7 +1,6 @@
 # update-url-wordpress
 simple update for urls wordpress
 
-
 Este procedimento é utilizando na maioria das vezes quando vamos publicar um site local para o servidor online.
 
 1. Faça backup do banco de dados MySQL do servidor atual.
